@@ -1,14 +1,14 @@
 # Site settings
-title: Monochrome | A minimal, responsive Jekyll blog theme
-description: "A minimal, responsive, ready to use blog template, built with Jekyll."
-url: "http://www.dyutibarma.github.io/monochrome"
+title: Centymentaylia | A game
+description: "A game to play."
+url: "https://centymentaylia.github.io/Centymentaylia"
 author:
-  name: "The Review Index"
-  email: "dyutibarma@gmail.com"
-  url: "https://thereviewindex.com"
+  name: "Kerrin Paterson"
+  email: "kp@example.com"
+  url: "https://centymentaylia.github.ioCentymentaylia"
 
 # Build settings
-baseurl: /monochrome # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: /Centymentaylia # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
