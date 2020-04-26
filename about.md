@@ -20,4 +20,4 @@ Here are the rules...
 
 For further details on Centymentaylia, please visit [this link](https://centymentaylia.github.io/Centymentalia/).
 
-![Monochrome](img/monochrome01.png "monochrome")
+![Login Screenshot](img/login.png "Centymentaylia login screenshot")
